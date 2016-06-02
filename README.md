@@ -6,3 +6,6 @@ https://www.raywenderlich.com/92667/securing-ios-data-keychain-touch-id-1passwor
 
 ios animation
 https://github.com/onmyway133/fantastic-ios-animation/blob/master/Animation/posts.md
+
+facebookn sdk for iOS
+https://developers.facebook.com/docs/messenger/ios
