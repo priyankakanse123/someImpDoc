@@ -9,3 +9,6 @@ https://github.com/onmyway133/fantastic-ios-animation/blob/master/Animation/post
 
 facebookn sdk for iOS
 https://developers.facebook.com/docs/messenger/ios
+
+for autolayouting read 
+https://www.raywenderlich.com/115444/auto-layout-tutorial-in-ios-9-part-2-constraints
