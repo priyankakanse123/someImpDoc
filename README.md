@@ -12,3 +12,6 @@ https://developers.facebook.com/docs/messenger/ios
 
 for autolayouting read 
 https://www.raywenderlich.com/115444/auto-layout-tutorial-in-ios-9-part-2-constraints
+
+refer for node.js 
+http://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js
