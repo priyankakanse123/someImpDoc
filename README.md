@@ -33,3 +33,33 @@ follow this link to simple test
 https://github.com/rshankras/AddingTwoNumbers-Part1
 http://rshankar.com/test-driven-development-in-ios-beginners-tutorial-part-1/
 http://rshankar.com/assertions-supported-in-xctest/
+
+
+ssl pinning
+https://infinum.co/the-capsized-eight/articles/how-to-make-your-ios-apps-more-secure-with-ssl-pinning
+
+How to make a UITextField move up when keyboard is present:
+http://stackoverflow.com/questions/1126726/how-to-make-a-uitextfield-move-up-when-keyboard-is-present
+
+also try the vc pogramming inside the project beginwithLogin
+
+https://github.com/ioscreator/ioscreator/blob/master/IOS8SwiftMoveViewKeyboardTutorial/IOS8SwiftMoveViewKeyboardTutorial/ViewController.swift
+
+
+cusomize accessoryView
+http://stackoverflow.com/questions/30371408/set-own-cell-accessory-type
+
+link for payUmoney
+http://stackoverflow.com/questions/27898349/payumoney-payment-gateway-issue
+
+code for checking internet connection
+http://stackoverflow.com/questions/8812459/easiest-way-to-detect-internet-connection-on-ios
+
+code for setting server timeout
+http://stackoverflow.com/questions/8304560/how-to-set-a-timeout-with-afnetworking
+
+deal with scroll view
+http://stackoverflow.com/questions/1595389/learning-the-basics-of-uiscrollview
+
+implement scroll view
+http://www.tutorialspoint.com/ios/ios_ui_elements_scrollview.htm
