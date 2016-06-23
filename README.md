@@ -63,3 +63,6 @@ http://stackoverflow.com/questions/1595389/learning-the-basics-of-uiscrollview
 
 implement scroll view
 http://www.tutorialspoint.com/ios/ios_ui_elements_scrollview.htm
+
+configure git 
+https://coolestguidesontheplanet.com/install-update-latest-version-git-mac-osx-10-9-mavericks/
