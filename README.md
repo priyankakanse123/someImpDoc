@@ -66,3 +66,4 @@ http://www.tutorialspoint.com/ios/ios_ui_elements_scrollview.htm
 
 configure git 
 https://coolestguidesontheplanet.com/install-update-latest-version-git-mac-osx-10-9-mavericks/
+http://stackoverflow.com/questions/16283280/how-to-locate-the-git-config-file-in-mac
